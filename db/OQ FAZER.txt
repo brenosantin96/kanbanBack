@@ -1,0 +1,3 @@
+fazer o seguitne: criar o arquivo BUILD pro banco e mandar executar o arquivo BUILD la no docker-compose..
+no build do banco vamos chamar um comando sql para q ele faca tudo na ordem....
+
